@@ -1,0 +1,23 @@
+#menuList {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+#foodDetailInfo img {
+    border-radius: 10px;
+}
+
+.input-group.mt-5 {
+    width: 450px;
+    margin-left: 215px;
+}
+.input-group.mt-5 {
+    height: 50px;
+}
+a.navbar-brand {
+    font-size: 22px;
+    /* color: #791a1a; */
+}
+h1#wrong {
+    background-color: #0d6efd0f;
+}
